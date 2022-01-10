@@ -1,0 +1,3 @@
+amihe:amihe,456,yes,tlm
+Amine:Amine,555,Belgaid,Babz
+Mine:Mine,789,BEl,Tlemcen

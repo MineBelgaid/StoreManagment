@@ -1,0 +1,2 @@
+Iphone,Informatique & Mobiles,4521,Telephone mobile,13000.0:2
+galaxy,Informatique & Mobiles,5412,Telephone mobile,8000.0:6

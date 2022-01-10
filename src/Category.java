@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Category {
     private String type;
-    Map<Produit, Integer> products = new HashMap<>();
+    Map<Produit, Integer> products;
 
     public void add(Produit product, Integer x) {
         
@@ -29,6 +29,7 @@ public class Category {
 
     public Category(String type) {
         this.type = type;
+        products = new HashMap<>();
     }
 
     public String toString() {
